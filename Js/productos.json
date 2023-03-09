@@ -1,0 +1,22 @@
+[
+    {
+      "nombre": "Bikini Fiyi",
+      "desc": "Black",
+      "precio": 1200      
+    },
+    {
+      "nombre": "Bikini Santa Lucia",
+      "desc": "Black",
+      "precio": 1500
+    },
+    {
+      "nombre": "Bikini Palawan",
+      "desc": "Gray",
+      "precio": 1570
+    },
+    {
+      "nombre": "Bikini California",
+      "desc": "Burgundy",
+      "precio": 1000
+    }
+]
